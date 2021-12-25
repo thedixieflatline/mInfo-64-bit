@@ -1,4 +1,4 @@
-mInfo 64 bit ver 0.1 November 2021
+mInfo 64 bit ver 0.1 December 2021
 GitHub Page: https://github.com/thedixieflatline/mInfo-64-bit
 
 TODO COnvert to 64 bit Python and libraries
